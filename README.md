@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Veeramani
 
-### Electrical & Computer Engineering Student | Future Cybersecurity Expert
+### Electronics and Communication Engineering Student | Future Cybersecurity Expert
 
 <!-- Hacker Theme -->
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
